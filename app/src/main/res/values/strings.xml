@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">00127717 labo 4</string>
+
+    <string name="movie_title_string">movie_title</string>
+    <string name="lorem_30_string">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, adipisci blanditiis dolores eos eveniet expedita fugit harum inventore itaque necessitatibus nemo odio odit perferendis, quas quasi reiciendis sit sunt vitae.</string>
+    <string name="runtime_ex_string">130min</string>
+    <string name="rate_ex_string">8.2</string>
+    <string name="movie_name_string">movie name</string>
+    <string name="n_a_value">N/A</string>
+</resources>
